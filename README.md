@@ -14,6 +14,5 @@ BATCH - AG22
 
 OUTPUT:
 
-OUTPUT
 
 <img width="1280" height="612" alt="Image" src="https://github.com/user-attachments/assets/940076cc-6069-4fab-b858-2c0fa4227de3" />
